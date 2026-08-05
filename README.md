@@ -12,7 +12,7 @@
   <tr>
     <td>0.05</td>
     <td>
-      Reached 100% win rate at epoch 400<br>
+      100% win rate @ epoch 400<br>
       <img width="250" src="https://github.com/user-attachments/assets/c43ff94e-e947-4a32-97cf-aa932ab935d4">
     </td>
     <td>
