@@ -14,15 +14,15 @@
     <td>0.05</td>
     <td>
       100% win rate: epoch 400<br>
-      <img width="250" src="https://github.com/user-attachments/assets/c43ff94e-e947-4a32-97cf-aa932ab935d4">
+      <img width="100%" src="https://github.com/user-attachments/assets/c43ff94e-e947-4a32-97cf-aa932ab935d4">
     </td>
     <td>
       100% win rate: epoch 363<br>
-      <img width="250" src="https://github.com/user-attachments/assets/dc045c55-1c7a-41bb-a739-5868daad60ac">
+      <img width="100%" src="https://github.com/user-attachments/assets/dc045c55-1c7a-41bb-a739-5868daad60ac">
     </td>
     <td>
       100% win rate: epoch 755<br>
-      <img width="250" src="https://github.com/user-attachments/assets/5363c9ac-f1b4-44c6-806e-46a1824e6b97">
+      <img width="100%" src="https://github.com/user-attachments/assets/5363c9ac-f1b4-44c6-806e-46a1824e6b97">
     </td>
     <td>x</td>
   </tr>
@@ -31,15 +31,15 @@
     <td>0.10</td>
     <td>
       100% win rate: epoch 295<br>
-      <img width="250" src="https://github.com/user-attachments/assets/9804b662-1012-48cd-aa0b-c9568257bf0a" />
+      <img width="100%" src="https://github.com/user-attachments/assets/9804b662-1012-48cd-aa0b-c9568257bf0a" />
     </td>
     <td>
       100% win rate: epoch 130<br>
-      <img width="250" src="https://github.com/user-attachments/assets/d6893118-1bc5-4e9a-b465-d17de6c8a8c2" />
+      <img width="100%" src="https://github.com/user-attachments/assets/d6893118-1bc5-4e9a-b465-d17de6c8a8c2" />
     </td>
     <td>
       100% win rate: epoch 271<br>
-      <img width="250" src="https://github.com/user-attachments/assets/f2e76b3c-0d77-43d1-b22a-b22bb0ad3be6" />
+      <img width="100%" src="https://github.com/user-attachments/assets/f2e76b3c-0d77-43d1-b22a-b22bb0ad3be6" />
     </td>
     <td>x</td>
   </tr>
@@ -48,15 +48,15 @@
     <td>0.25</td>
     <td>
       100% win rate: epoch 445<br>
-      <img width="250" src="https://github.com/user-attachments/assets/b421e629-77d7-4966-bdc1-15d149e4ff23" />
+      <img width="100%" src="https://github.com/user-attachments/assets/b421e629-77d7-4966-bdc1-15d149e4ff23" />
     </td>
     <td>
       100% win rate: epoch 478<br>
-      <img width="250" src="https://github.com/user-attachments/assets/efcd5c1c-6b50-4399-9a67-08cc135f3f4d" />
+      <img width="100%" src="https://github.com/user-attachments/assets/efcd5c1c-6b50-4399-9a67-08cc135f3f4d" />
     </td>
     <td>
       100% win rate: epoch 467<br>
-      <img width="250" src="https://github.com/user-attachments/assets/24cf1c3d-bfb6-43d6-8876-bfcef74e418f" />
+      <img width="100%" src="https://github.com/user-attachments/assets/24cf1c3d-bfb6-43d6-8876-bfcef74e418f" />
     </td>
     <td>x</td>
   </tr>
