@@ -1,5 +1,6 @@
 # Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
+
 <table>
   <tr>
     <th>Epsylon</th>
@@ -28,41 +29,57 @@
 
   <tr>
     <td>0.10</td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch 130<br>
+    <img width="250" src="https://github.com/user-attachments/assets/d6893118-1bc5-4e9a-b465-d17de6c8a8c2" />
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
     <td>x</td>
   </tr>
 
   <tr>
     <td>0.25</td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
     <td>x</td>
   </tr>
 
   <tr>
     <td>0.50</td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
     <td>x</td>
   </tr>
 
   <tr>
     <td>0.75</td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
     <td>x</td>
   </tr>
 
   <tr>
     <td>1.00</td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
-    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
+    <td>100% win rate: epoch <br>
+    </td>
     <td>x</td>
   </tr>
 
