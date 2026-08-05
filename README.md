@@ -12,15 +12,15 @@
   <tr>
     <td>0.05</td>
     <td>
-      100% win rate @ epoch 400<br>
+      100% win rate: epoch 400<br>
       <img width="250" src="https://github.com/user-attachments/assets/c43ff94e-e947-4a32-97cf-aa932ab935d4">
     </td>
     <td>
-      363<br>
+      100% win rate: epoch 363<br>
       <img width="250" src="https://github.com/user-attachments/assets/dc045c55-1c7a-41bb-a739-5868daad60ac">
     </td>
     <td>
-      755<br>
+      100% win rate: epoch 755<br>
       <img width="250" src="https://github.com/user-attachments/assets/5363c9ac-f1b4-44c6-806e-46a1824e6b97">
     </td>
     <td>x</td>
@@ -28,41 +28,41 @@
 
   <tr>
     <td>0.10</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
     <td>x</td>
   </tr>
 
   <tr>
     <td>0.25</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
     <td>x</td>
   </tr>
 
   <tr>
     <td>0.50</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
     <td>x</td>
   </tr>
 
   <tr>
     <td>0.75</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
     <td>x</td>
   </tr>
 
   <tr>
     <td>1.00</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
+    <td>100% win rate: epoch </td>
     <td>x</td>
   </tr>
 
