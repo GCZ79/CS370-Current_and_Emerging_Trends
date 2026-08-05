@@ -74,7 +74,6 @@
     <td>
       100% win rate: epoch 432<br>
       <img width="100%" src="https://github.com/user-attachments/assets/5e6d48db-3ed9-40bf-a1b7-8abf066d3921" />
-
     </td>
     <td>x</td>
   </tr>
