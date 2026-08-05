@@ -29,12 +29,15 @@
 
   <tr>
     <td>0.10</td>
-    <td>100% win rate: epoch <br>
+    <td>100% win rate: epoch 295<br>
+    <img width="250" src="https://github.com/user-attachments/assets/9804b662-1012-48cd-aa0b-c9568257bf0a" />
     </td>
     <td>100% win rate: epoch 130<br>
     <img width="250" src="https://github.com/user-attachments/assets/d6893118-1bc5-4e9a-b465-d17de6c8a8c2" />
     </td>
-    <td>100% win rate: epoch <br>
+    <td>100% win rate: epoch 271<br>
+    <img width="250" src="https://github.com/user-attachments/assets/f2e76b3c-0d77-43d1-b22a-b22bb0ad3be6" />
+
     </td>
     <td>x</td>
   </tr>
