@@ -1,5 +1,10 @@
 # Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
+### For this project, I worked on developing and improving an intelligent agent that could navigate an environment and learn the optimal path to reach a goal using reinforcement learning. The project provided the initial framework, including the environment, game logic, state representation, and parts of the agent structure. The provided code handled much of the setup required to run the simulation, including the maze, rewards, movement rules, and training environment.
+
+### The code I created, following the provided pseudocode, focused on implementing the learning process for the intelligent agent. I worked with the Q-learning approach by developing the logic that allowed the agent to make decisions based on previous experiences, update its knowledge through rewards and penalties, and improve its performance over multiple training episodes. Through this process, I gained a better understanding of how artificial intelligence systems learn from interactions with an environment rather than relying only on explicitly programmed instructions.
+
+### The table below shows the results of multiple reinforcement learning experiments using different epsilon values. Epsilon controls the exploration rate of the agent, determining how often it chooses random actions instead of relying on previously learned information. For each epsilon value, the agent was trained three separate times, and the number of epochs required to achieve a 100% win rate was recorded. The average column represents the mean number of epochs across the three experiments and provides a better comparison of overall performance.
 
 <table>
   <tr>
@@ -24,7 +29,7 @@
       100% win rate: epoch 755<br>
       <img width="100%" src="https://github.com/user-attachments/assets/5363c9ac-f1b4-44c6-806e-46a1824e6b97">
     </td>
-    <td>x</td>
+    <td>506</td>
   </tr>
 
   <tr>
@@ -41,7 +46,7 @@
       100% win rate: epoch 271<br>
       <img width="100%" src="https://github.com/user-attachments/assets/f2e76b3c-0d77-43d1-b22a-b22bb0ad3be6" />
     </td>
-    <td>x</td>
+    <td>232</td>
   </tr>
 
   <tr>
@@ -58,7 +63,7 @@
       100% win rate: epoch 467<br>
       <img width="100%" src="https://github.com/user-attachments/assets/24cf1c3d-bfb6-43d6-8876-bfcef74e418f" />
     </td>
-    <td>x</td>
+    <td>463.33</td>
   </tr>
 
   <tr>
@@ -75,7 +80,7 @@
       100% win rate: epoch 432<br>
       <img width="100%" src="https://github.com/user-attachments/assets/5e6d48db-3ed9-40bf-a1b7-8abf066d3921" />
     </td>
-    <td>x</td>
+    <td>387.33</td>
   </tr>
 
   <tr>
@@ -92,7 +97,7 @@
       100% win rate: epoch 359<br>
       <img width="100%" src="https://github.com/user-attachments/assets/a5549f87-3b1b-4444-bb3f-a4db562f41c2" />
     </td>
-    <td>x</td>
+    <td>403</td>
   </tr>
 
   <tr>
@@ -109,11 +114,12 @@
       100% win rate: epoch 398<br>
       <img width="100%" src="https://github.com/user-attachments/assets/e23366f8-5a80-497b-865f-59269848c682" />
     </td>
-    <td>x</td>
+    <td>371.67</td>
   </tr>
 
 </table>
 
+### The results show that an epsilon value of 0.10 produced the fastest convergence, reaching a 100% win rate in an average of 232 epochs. Lower exploration values, such as 0.05, caused slower learning because the agent did not explore enough possible actions. Higher epsilon values also increased the number of required epochs because the agent spent more time exploring instead of exploiting the knowledge it had already gained. These experiments demonstrate the importance of balancing exploration and exploitation when training reinforcement learning agents.
 
 # Connect your learning from throughout this course to the larger field of computer science:
 * # What do computer scientists do and why does it matter?
