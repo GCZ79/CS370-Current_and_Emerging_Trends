@@ -1,4 +1,4 @@
-# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+## Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
 #### For this project, I worked on developing and improving an intelligent agent that could navigate an environment and learn the optimal path to reach a goal using reinforcement learning. The project provided the initial framework, including the environment, game logic, state representation, and parts of the agent structure. The provided code handled much of the setup required to run the simulation, including the maze, rewards, movement rules, and training environment.
 
@@ -123,15 +123,15 @@
 
 #### I decided to submit the experiment that reached a 100% win rate after 293 epochs using an epsilon value of 0.10. This experiment was selected because the agent completed the optimal path using the minimum number of moves required. Although it was the slowest run among the three tests for this epsilon value, it provides a more representative estimate of the training time required for the agent to learn the maze, as the other experiments produced comparable results. However, the limited number of trials performed (only three runs for each epsilon value) reduces the statistical significance of the results and prevents drawing strong conclusions from the data alone.
 
-# Connect your learning from throughout this course to the larger field of computer science:
-* # What do computer scientists do and why does it matter?
+## Connect your learning from throughout this course to the larger field of computer science:
+* ## What do computer scientists do and why does it matter?
 
 #### Throughout this course, I learned that computer scientists do much more than write code. Computer scientists analyze problems, design solutions, create algorithms, and use technology to solve real-world challenges. The work of computer scientists matters because software and intelligent systems influence many areas of society, including healthcare, transportation, business, and communication. As technology becomes more integrated into daily life, creating reliable and responsible solutions becomes increasingly important.
 
-* # How do I approach a problem as a computer scientist?
+* ## How do I approach a problem as a computer scientist?
 
 #### When approaching a problem as a computer scientist, I try to break the problem into smaller components, understand the requirements, research possible solutions, and evaluate different approaches before implementing a solution. This project reinforced the importance of experimentation and iteration. The first solution is not always the best solution, and testing, analyzing results, and improving the design are essential parts of the development process.
 
-* # What are my ethical responsibilities to the end user and the organization?
+* ## What are my ethical responsibilities to the end user and the organization?
 
 #### Computer scientists also have ethical responsibilities to both end users and organizations. Developers must consider how their software affects people, protect user data, create secure and reliable systems, and avoid introducing unnecessary bias or harm. With artificial intelligence systems in particular, developers have a responsibility to understand the limitations of their models and ensure that the technology is used responsibly. The goal should not only be creating software that works, but creating software that benefits users and society.
