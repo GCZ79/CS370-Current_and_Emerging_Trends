@@ -126,6 +126,8 @@
 # Connect your learning from throughout this course to the larger field of computer science:
 * # What do computer scientists do and why does it matter?
 
+#### Throughout this course, I learned that computer scientists do much more than write code. Computer scientists analyze problems, design solutions, create algorithms, and use technology to solve real-world challenges. The work of computer scientists matters because software and intelligent systems influence many areas of society, including healthcare, transportation, business, and communication. As technology becomes more integrated into daily life, creating reliable and responsible solutions becomes increasingly important.
+
 * # How do I approach a problem as a computer scientist?
 
 * # What are my ethical responsibilities to the end user and the organization?
