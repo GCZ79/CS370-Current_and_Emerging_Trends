@@ -130,6 +130,8 @@
 
 * # How do I approach a problem as a computer scientist?
 
+#### When approaching a problem as a computer scientist, I try to break the problem into smaller components, understand the requirements, research possible solutions, and evaluate different approaches before implementing a solution. This project reinforced the importance of experimentation and iteration. The first solution is not always the best solution, and testing, analyzing results, and improving the design are essential parts of the development process.
+
 * # What are my ethical responsibilities to the end user and the organization?
 
-
+#### Computer scientists also have ethical responsibilities to both end users and organizations. Developers must consider how their software affects people, protect user data, create secure and reliable systems, and avoid introducing unnecessary bias or harm. With artificial intelligence systems in particular, developers have a responsibility to understand the limitations of their models and ensure that the technology is used responsibly. The goal should not only be creating software that works, but creating software that benefits users and society.
