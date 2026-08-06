@@ -119,7 +119,9 @@
 
 </table>
 
-### The results show that an epsilon value of 0.10 produced the fastest convergence, reaching a 100% win rate in an average of 232 epochs. Lower exploration values, such as 0.05, caused slower learning because the agent did not explore enough possible actions. Higher epsilon values also increased the number of required epochs because the agent spent more time exploring instead of exploiting the knowledge it had already gained. These experiments demonstrate the importance of balancing exploration and exploitation when training reinforcement learning agents.
+#### The results show that an epsilon value of 0.10 produced the fastest convergence, reaching a 100% win rate in an average of 232 epochs. Lower exploration values, such as 0.05, caused slower learning because the agent did not explore enough possible actions. Higher epsilon values also increased the number of required epochs because the agent spent more time exploring instead of exploiting the knowledge it had already gained. These experiments demonstrate the importance of balancing exploration and exploitation when training reinforcement learning agents.
+
+#### I decided to submit the experiment that reached a 100% win rate after 293 epochs using an epsilon value of 0.10. This experiment was selected because the agent completed the optimal path using the minimum number of moves required. Although it was the slowest run among the three tests for this epsilon value, it provides a more representative estimate of the training time required for the agent to learn the maze, as the other experiments produced comparable results. However, the limited number of trials performed (only three runs for each epsilon value) reduces the statistical significance of the results and prevents drawing strong conclusions from the data alone.
 
 # Connect your learning from throughout this course to the larger field of computer science:
 * # What do computer scientists do and why does it matter?
